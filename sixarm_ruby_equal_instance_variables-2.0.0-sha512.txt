@@ -1,0 +1,1 @@
+10378a841a119a1dcc3e8f21e6fc7dedc8efe41321c0db7e0234d2e3d140ff09d99a75d513635be2aed3cf92a2390b848149bcf9cd63266bcc86633b50d9075c  sixarm_ruby_equal_instance_variables-2.0.0.gem
